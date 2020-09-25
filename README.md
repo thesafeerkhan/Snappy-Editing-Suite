@@ -4,6 +4,6 @@ You can access the website at:  https://thesafeerkhan.github.io/Snappy-Website-D
 
 Fully Responsive Design
 
-![alt text](https://github.com/thesafeerkhan/Snappy-Website-Design/images/pagescreen1.jpg)
+![alt text](https://github.com/thesafeerkhan/Snappy-Website-Design/blob/master/images/pagescreen1.png)
 
-![alt text](https://github.com/thesafeerkhan/Snappy-Website-Design/images/pagescreen2.jpg)
+![alt text](https://github.com/thesafeerkhan/Snappy-Website-Design/blob/master/images/pagescreen2.png)
