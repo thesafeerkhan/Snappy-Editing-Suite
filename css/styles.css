@@ -1,0 +1,166 @@
+/* Global */
+body {
+	font-family: "Montserrat", sans-serif;
+	text-align: center;
+}
+
+p {
+	color: #8f8f8f;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "Montserrat", sans-serif;
+	font-weight: 900;
+}
+
+.container-fluid {
+	padding: 7% 15%;
+}
+
+.container {
+	padding: 2% 15%;
+}
+
+/* Headings */
+.big-heading {
+	color: white;
+	line-height: 1.5;
+	font-size: 3.5rem;
+}
+
+.section-heading {
+	font-size: 3rem;
+	line-height: 1.5;
+}
+
+/* Sections */
+.color-section {
+	background-color: #2b2e4a;
+	color: white;
+}
+
+.white-section {
+	background-color: white;
+}
+
+/* NavBar */
+.navbar {
+	padding-left: 0;
+}
+
+.navbar-brand {
+	font-family: "Ubuntu";
+	font-size: 2.5rem;
+	font-weight: bold;
+}
+
+.nav-item {
+	padding: 0 25px;
+}
+
+.nav-link {
+	font-size: 1.2rem;
+	margin-right: 20px;
+}
+
+/* Title */
+#title {
+	text-align: left;
+}
+
+#title .container-fluid {
+	padding: 3% 15% 7%;
+}
+
+.download-button {
+	margin: 5% 3% 5% 0;
+}
+
+.camerahero {
+	position: absolute;
+	max-width: 120%;
+	transform: rotate(-15deg);
+
+	-webkit-user-drag: none;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-drag: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+}
+
+@media (max-width: 991px) {
+	#title {
+		text-align: center;
+	}
+	.camerahero {
+		position: static;
+		transform: rotate(0);
+	}
+}
+
+/* Features */
+#features {
+	position: relative;
+}
+
+.feature-title {
+	line-height: 1.5;
+}
+
+.features-icon {
+	color: #e84545;
+}
+
+.features-icon:hover {
+	color: #c22d43;
+}
+
+/* Mockup */
+.mockup {
+	width: 100%;
+	max-width: 100%;
+}
+
+/* Testimonials */
+#testimonials {
+	background-color: #53354a;
+}
+
+.testi-image {
+	border-radius: 100%;
+	width: 15%;
+	margin: 20px;
+}
+
+.testimonial-text {
+	font-size: 3rem;
+	line-height: 1.5;
+}
+
+@media (max-width: 991px) {
+	.testimonial-text {
+		font-size: 2rem;
+		line-height: 1.5;
+	}
+}
+
+/* Pricing */
+.pricing-col {
+	padding: 3% 2%;
+}
+
+.price-text {
+	font-size: 3rem;
+	line-height: 1.5;
+}
+
+/* Footer */
+.footericon {
+	padding: 0px 20px 20px;
+}
