@@ -6,4 +6,4 @@ Fully Responsive Design
 
 ![alt text](https://github.com/thesafeerkhan/Snappy-Website-Design/blob/master/images/pagescreen1.png)
 
-![alt text](https://github.com/thesafeerkhan/Snappy-Website-Design/blob/master/images/pagescreen2.png)
+![alt text](https://github.com/thesafeerkhan/Snappy-Website-Design/blob/master/images/pagescreen2.png){:height="400px" width="700px"}
