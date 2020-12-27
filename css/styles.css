@@ -146,6 +146,10 @@ h6 {
 	max-width: 100%;
 }
 
+.mockdesign{
+	margin: 1rem 0;
+}
+
 /* Testimonials */
 #testimonials {
 	background-color: #53354a;
